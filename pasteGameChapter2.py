@@ -73,5 +73,10 @@ print("Are you ready to do the Sex. Pretty Boi??")
 input()
 
 print("https://youtu.be/cBm-XeOVIeY")
+input()
 
-
+print('')
+print('GAME CHAPTER 2:  Gant696t04')
+print('pressing any button will close the game.')
+print('')
+input()

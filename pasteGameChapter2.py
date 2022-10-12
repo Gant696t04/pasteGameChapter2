@@ -60,13 +60,13 @@ print("*Grabs pliers*")
 input()
 print("*Rips off your middle fingernail*")
 
-print("Bruu Byuu")
+print("Bruu Nyuu")
 input()
 
 print("Do you know my name?")
 input()
 
-print("No. I was I, Neco Arc!")
+print("No. It was I, Neco Arc!")
 input()
 
 print("Are you ready to do the Sex. Pretty Boi??")
